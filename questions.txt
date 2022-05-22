@@ -1,0 +1,15 @@
+
+1). What is hoisting in JS?
+2). How it works?
+3). Does hoisting work with all the variables, and Why?
+4). Diff. b/ "let" and "var"?
+5). What is Event Loop?
+6). What is the precedence in Event Loop? ( between Promise() and setTimeout() )
+7). What is the Diff. b/ "setTimeout()" & "setInterval()"?
+8). What are the ES6 features you have used?
+9). Where do you mostly use Rest Operator?
+10). Write a JS program to check whether a string is Palindrome or not?
+11). What are the usage of Array.reverse()?
+12). What do you mean by "Shallow Copy" and "Deep Copy"?
+13). What are the Closures in JS?
+14). Diff. b/ "map()" and "reduce()"?
