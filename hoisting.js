@@ -24,3 +24,5 @@ function sayMyname() {
 }
 
 sayMyname();
+
+// all variables type function,var,let,const and class are hoisted. While var is initialized to undefined, let and const remain uninitialized.

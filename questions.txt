@@ -7,7 +7,7 @@
 6). What is the precedence in Event Loop? ( between Promise() and setTimeout() )
 7). What is the Diff. b/ "setTimeout()" & "setInterval()"?
 8). What are the ES6 features you have used?
-9). Where do you mostly use Rest Operator?
+9). Where do you mostly use Rest Operator? get a list of all the  parameters as an array
 10). Write a JS program to check whether a string is Palindrome or not?
 11). What are the usage of Array.reverse()?
 12). What do you mean by "Shallow Copy" and "Deep Copy"?
